@@ -1,0 +1,1 @@
+# Checking-Duplicate-in-an-Array
